@@ -1,1 +1,2 @@
 # Elderly-care-system
+This project aims to provide a solution to elders and the persons who need supervision. We are building a device to monitor the present location of the person which can be used for geofencing. It also includes med-scheduling, health-monitoring and fall detection of the elders/person. The health data collected can be further used for research and development purpose of the individual.
